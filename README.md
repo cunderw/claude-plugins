@@ -27,3 +27,7 @@ claude plugin test plugins/<plugin>      # run its tests
 ```
 
 A plugin's `tsconfig.json` extends `.claude-plugin/types/tsconfig.json`. The engine writes that folder when it loads the plugin, and git ignores it.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
