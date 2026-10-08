@@ -1,0 +1,14 @@
+{
+  "name": "cunderw",
+  "description": "Plugins for Claude Code by Carson Underwood.",
+  "owner": {
+    "name": "Carson Underwood"
+  },
+  "plugins": [
+    {
+      "name": "open-questions",
+      "source": "./plugins/open-questions",
+      "description": "Pins Claude's unanswered questions above the prompt until you reply."
+    }
+  ]
+}

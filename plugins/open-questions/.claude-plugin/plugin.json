@@ -1,0 +1,9 @@
+{
+  "name": "open-questions",
+  "version": "0.1.0",
+  "description": "Pins Claude's unanswered questions above the prompt until you reply.",
+  "author": {
+    "name": "Carson Underwood"
+  },
+  "types": "./types/index.d.ts"
+}
