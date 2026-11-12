@@ -1,0 +1,9 @@
+{
+  "name": "inline-images",
+  "version": "0.1.0",
+  "description": "Shows PNGs Claude reads or sends as pictures under the tool call, in terminals with kitty graphics.",
+  "author": {
+    "name": "Carson Underwood"
+  },
+  "license": "MIT"
+}

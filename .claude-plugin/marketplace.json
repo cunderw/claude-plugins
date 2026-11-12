@@ -9,6 +9,11 @@
       "name": "open-questions",
       "source": "./plugins/open-questions",
       "description": "Pins Claude's unanswered questions above the prompt until you reply."
+    },
+    {
+      "name": "inline-images",
+      "source": "./plugins/inline-images",
+      "description": "Shows PNGs Claude reads or sends as pictures under the tool call, in terminals with kitty graphics."
     }
   ]
 }
